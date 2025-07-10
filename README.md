@@ -2,12 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&width=800&lines=Welcome+to+My+GitHub!;Creative+Developer+%F0%9F%92%A1)
 
-<!-- Animated SVG Wave -->
-<img src="https://raw.githubusercontent.com/Akshay090/svg-waves/main/waves.svg" alt="Animated Wave" width="100%" height="100px">
-
-<!-- Fun Animated GIF (replace with your own if you like!) -->
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding Animation" width="400"/>
-
 ## 🙋 About Me
 - Passionate developer with a love for building creative solutions and exploring new technologies.
 - Always excited about learning and sharing knowledge.
