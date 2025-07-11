@@ -49,7 +49,7 @@
 ## 🧩 Fun Facts
 
 - 💻 Code is my canvas, and I love painting solutions!
-- 🎧 Music and coffee are my coding companions.
+- 🎧 Music and Tea are my coding companions.
 - 🧩 Always up for a challenge—let’s collaborate!
 
 ---
